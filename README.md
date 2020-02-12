@@ -3,5 +3,6 @@ Graduation time
 
 Group members:
 
-Ada Lovelace adalovelace@csu.fullerton.edu
-Charles Babbage charlesbab@csu.fullerton.edu
+Mohit Kumar mohit_kumar@csu.fullerton.edu
+Rakesh Gudipudi rakigp6@csu.fullerton.edu
+Aritra SenGupta
